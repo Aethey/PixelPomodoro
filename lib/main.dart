@@ -7,6 +7,7 @@ import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 import 'application.dart';
 import 'feature/home/home_page.dart';
+import 'feature/setting/sleep_time.dart';
 
 void main() {
   // define route
@@ -38,7 +39,7 @@ class MyApp extends ConsumerWidget {
               onGenerateRoute: router.generator,
               theme: themeState.themeData,
               title: 'Flutter Demo',
-              home: const HomePage());
+              home: const SleepTimeSetPage());
         });
   }
 }
