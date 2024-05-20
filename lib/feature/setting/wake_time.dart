@@ -1,4 +1,4 @@
-import 'package:day_puzzle/feature/setting/time_wheel.dart';
+import 'package:pixel_pomodoro/feature/setting/time_wheel.dart';
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

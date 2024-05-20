@@ -1,4 +1,4 @@
-import 'package:day_puzzle/feature/home/matrix_scroll_grid.dart';
+import 'package:pixel_pomodoro/feature/home/matrix_scroll_grid.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

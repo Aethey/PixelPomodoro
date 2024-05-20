@@ -1,6 +1,6 @@
 import 'dart:ui' as ui;
 
-import 'package:day_puzzle/feature/setting/slider_thumbImage.dart';
+import 'package:pixel_pomodoro/feature/setting/slider_thumbImage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

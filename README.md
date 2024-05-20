@@ -1,4 +1,4 @@
-# day_puzzle
+# pixel_pomodoro
 
 A schedule planner Flutter project.
 

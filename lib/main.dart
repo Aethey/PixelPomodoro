@@ -1,5 +1,5 @@
-import 'package:day_puzzle/routes/routes.dart';
-import 'package:day_puzzle/state/theme_state.dart';
+import 'package:pixel_pomodoro/routes/routes.dart';
+import 'package:pixel_pomodoro/state/theme_state.dart';
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';

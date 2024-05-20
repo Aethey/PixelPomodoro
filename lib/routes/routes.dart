@@ -1,4 +1,4 @@
-import 'package:day_puzzle/feature/home/home_page.dart';
+import 'package:pixel_pomodoro/feature/home/home_page.dart';
 import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
 

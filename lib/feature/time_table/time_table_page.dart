@@ -1,4 +1,4 @@
-import 'package:day_puzzle/feature/time_table/staggered_page.dart';
+import 'package:pixel_pomodoro/feature/time_table/staggered_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 

@@ -1,4 +1,4 @@
-import 'package:day_puzzle/component/sandglass_painter.dart';
+import 'package:pixel_pomodoro/component/sandglass_painter.dart';
 import 'package:flutter/material.dart';
 
 class SandGlassWidget extends StatefulWidget {
